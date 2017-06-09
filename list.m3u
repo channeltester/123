@@ -1,0 +1,585 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png" group-title="USA",Animal Planet
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.yiptv.com/wp-content/uploads/2015/05/channels-page-_0000_yes.png" group-title="USA",Yes TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/TjHh4PW.png" group-title="USA",CNN
+http://109.123.114.178:1935/Livenewson/Livenewson/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/QVvBPKr.jpg" group-title="USA",ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/6957.jpeg" group-title="USA",CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.thedailyrash.com/wp-content/uploads/2014/02/MSNBC.jpg" group-title="USA",MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gigaom.com/wp-content/uploads/sites/1/2012/02/bloomberg-tv-logo-o.jpg" group-title="USA",Bloomberg TV
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bbgdirect.com/Content/images/VOA-logo.png" group-title="USA",VoA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/3251.jpg" group-title="USA",C-SPAN
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/3250.gif" group-title="USA",C-SPAN 2
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/3249.png" group-title="USA",C-SPAN 3
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-QeEZiGWs7H0/AAAAAAAAAAI/AAAAAAAACmM/bx1U4F9IYgI/photo.jpg" group-title="USA",The Blaze
+https://theblaze.global.ssl.fastly.net/live/theblaze/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/771129571143917568/ALsCCg-v.jpg" group-title="USA",InfoWars
+http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/H00wiqw.jpg" group-title="USA",Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/3144.jpg" group-title="USA",Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/channels/images/ae82e725706942f08c4feabaf6f7da2d-hd.jpg" group-title="USA",TWiT.TV
+http://hls.twit.tv/flosoft/mp4:twitStream_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/channels/images/ae82e725706942f08c4feabaf6f7da2d-hd.jpg" group-title="USA",TWiT.TV*
+http://hls.cdn.flosoft.biz/flosoft/mp4:twitStream_360/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1000px-ESPN_wordmark.svg.png" group-title="USA",ESPN
+http://stream.i4atv.info/ggwpl/live2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.troika.tv/wp-content/uploads/Golf_Flat.jpg" group-title="USA",NBC Golf [NoRoku]
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.troika.tv/wp-content/uploads/Golf_Flat.jpg" group-title="USA",NBC Golf* [NoRoku]
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.troika.tv/wp-content/uploads/Golf_Flat.jpg" group-title="USA",NBC Golf** [NoRoku]
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/9095.png" group-title="USA",NFL Now
+http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/9LtjkGW.jpg" group-title="USA",Olympic Channel HD
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/5249.jpg" group-title="USA",MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-washington.jpg" group-title="USA",Pac-12 Washington
+http://xrxs.net/video/live-p12wash-2328.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-losangeles.jpg" group-title="USA",Pac-12 Los Angeles
+http://xrxs.net/video/live-p12losa-2328.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-oregon.jpg" group-title="USA",Pac-12 Oregon
+http://xrxs.net/video/live-p12oreg-2328.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-arizona.jpg" group-title="USA",Pac-12 Arizona
+http://xrxs.net/video/live-p12ariz-2328.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-mountain.jpg" group-title="USA",Pac-12 Mountain
+http://xrxs.net/video/live-p12moun-2328.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://corporate.musicchoice.com/files/1913/8178/7936/MCPlayLogo.png" group-title="USA",Music Choice Play
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/cmc_tv.jpg" group-title="USA",California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mms.businesswire.com/media/20170113005327/en/564340/5/HSN_logo.jpg" group-title="USA",HSN
+http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://conveyornetworks.co.uk/wp-content/uploads/2016/01/portfolio-client-logo-qvc-300x200.jpg" group-title="USA",QVC
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://desdelapelouse.files.wordpress.com/2012/06/canada.png" group-title="LABEL",~ Canada TV ~
+http://www.lengua.com/anthems/Canada.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Assemblée_nationale_du_Québec.svg/1200px-Assemblée_nationale_du_Québec.svg.png" group-title="CANADA",Assemblee Nationale du Quebec (French)
+http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.douglas.qc.ca/uploads/Image/images_site/1377_logo_canal_savoir_retaille/canevas-canal-savoir.jpg" group-title="CANADA",Canal Savoir (French)
+http://stream.canalsavoir.tv/livestream/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/CHCH_HD.PNG" group-title="CANADA",CHCH
+http://52.86.189.59:1935/live/news/chunklist_w479079800.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-RptXgX--BQo/UzBZcK2YyGI/AAAAAAAABLU/NTJX82V0w2Q/s320/citytv.png" group-title="CANADA",CityTV Calgary
+http://btflash-lh.akamaihd.net/i/BTCALFLASH_live@120221/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.vancitybuzz.com/wp-content/uploads/2012/06/city_tv_vancouver.jpg" group-title="CANADA",CityTV Vancouver
+http://btflash-lh.akamaihd.net/i/BTVANFLASH_live@120224/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://20549-presscdn.pagely.netdna-cdn.com/wp-content/uploads/cpac_social_seo_logo_bil_1200x630.jpg" group-title="CANADA",CPAC
+http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i67.tinypic.com/261m6it.jpg" group-title="CANADA",CTV News Live Events 1
+http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i67.tinypic.com/261m6it.jpg" group-title="CANADA",CTV News Live Events 2
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i67.tinypic.com/261m6it.jpg" group-title="CANADA",CTV News Live Events 3
+http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i67.tinypic.com/261m6it.jpg" group-title="CANADA",CTV News Live Events 4
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.iphoneincanada.ca/wp-content/uploads/2015/07/the-shopping-channel-logo.jpg" group-title="CANADA",The Shopping Channel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8
+#EXTINF:0,A&E free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/672.ts
+#EXTINF:0,AnimalPlanet free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/671.ts
+#EXTINF:0,BBC AMERICA free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/628.ts
+#EXTINF:0,bet free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/630.ts
+#EXTINF:0,CartoonNetwork free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/670.ts
+#EXTINF:0,cbs free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/669.ts
+#EXTINF:0,cbs news free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/653.ts
+#EXTINF:0,cnn free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/668.ts
+#EXTINF:0,ComedyCentral free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/667.ts
+#EXTINF:0,COOKING CHANNEL free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/627.ts
+#EXTINF:0,cw free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/666.ts
+#EXTINF:0,Destination America free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/621.ts
+#EXTINF:0,Discovery free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/652.ts
+#EXTINF:0,DiscoveryScience free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/651.ts
+#EXTINF:0,diy free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/650.ts
+#EXTINF:0,E! free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/655.ts
+#EXTINF:0,ESPN2 free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/616.ts
+#EXTINF:0,FOOD NETWORK free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/626.ts
+#EXTINF:0,fox free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/665.ts
+#EXTINF:0,FOXSPORT1 free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/625.ts
+#EXTINF:0,fx free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/664.ts
+#EXTINF:0,fxx free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/635.ts
+#EXTINF:0,fyi free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/643.ts
+#EXTINF:0,h2 free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/633.ts
+#EXTINF:0,HBO COMEDY free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/624.ts
+#EXTINF:0,HBO FAMILY free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/623.ts
+#EXTINF:0,hbo free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/634.ts
+#EXTINF:0,HBO SIGNATURE free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/642.ts
+#EXTINF:0,INVESTIGATION DISCOVERY free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/641.ts
+#EXTINF:0,life time free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/663.ts
+#EXTINF:0,lifetime movie network free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/649.ts
+#EXTINF:0,MLB Live 1 free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/721.ts
+#EXTINF:0,MLB Live 2 free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/720.ts
+#EXTINF:0,MLB Network free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/719.ts
+#EXTINF:0,MSNBC free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/640.ts
+#EXTINF:0,NBA LEAGUE PASS LIVE 1 HD free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/718.ts
+#EXTINF:0,NBA LEAGUE PASS LIVE 2 HD free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/717.ts
+#EXTINF:0,NBA LEAGUE PASS LIVE 3 HD free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/716.ts
+#EXTINF:0,nba tv free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/639.ts
+#EXTINF:0,nbc free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/662.ts
+#EXTINF:0,nfl network free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/632.ts
+#EXTINF:0,NFLNOW free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/622.ts
+#EXTINF:0,pbs free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/660.ts
+#EXTINF:0,showtime free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/638.ts
+#EXTINF:0,spike free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/659.ts
+#EXTINF:0,STARZ CINEMA free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/636.ts
+#EXTINF:0,STARZ EAST free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/637.ts
+#EXTINF:0,syfy free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/658.ts
+#EXTINF:0,tbs free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/657.ts
+#EXTINF:0,tnt free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/656.ts
+#EXTINF:0,trutv free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/648.ts
+#EXTINF:0,tv land free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/654.ts
+#EXTINF:0,UnivisionDeportes free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/617.ts
+#EXTINF:0,Velocity free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/646.ts
+#EXTINF:0,wwe free
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/631.ts
+#EXTINF:0,free BNN
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/806.ts
+#EXTINF:0,free CARTOON NETWORK
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/805.ts
+#EXTINF:0,free CBC TORONTO
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/804.ts
+#EXTINF:0,free CHCH
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/803.ts
+#EXTINF:0,free CITY VANCOUVER
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/802.ts
+#EXTINF:0,free COMEDY GOLD
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/801.ts
+#EXTINF:0,free COTTAGE LIFE
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/800.ts
+#EXTINF:0,free CP24
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/799.ts
+#EXTINF:0,free CTV TORONTO
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/798.ts
+#EXTINF:0,free DEJA VIEW
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/797.ts
+#EXTINF:0,free E!
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/796.ts
+#EXTINF:0,free FYI
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/794.ts
+#EXTINF:0,free G4
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/793.ts
+#EXTINF:0,free GLOBAL TV CALGARY
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/792.ts
+#EXTINF:0,free GOLF CHANNEL
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/790.ts
+#EXTINF:0,free GSN
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/789.ts
+#EXTINF:0,MOVIE TIME FREE
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/787.ts
+#EXTINF:0,free MTV CANADA
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/786.ts
+#EXTINF:0,free MUCH MUSIC
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/785.ts
+#EXTINF:0,free NICK
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/783.ts
+#EXTINF:0,free OLN
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/782.ts
+#EXTINF:0,free OWN (OPRAH WINFREY NETWORK)
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/781.ts
+#EXTINF:0,free PEACHTREE TV
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/780.ts
+#EXTINF:0,free SILVER SCREEN CLASSICS
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/779.ts
+#EXTINF:0,free SLICE
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/778.ts
+#EXTINF:0,free SPIKE
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/777.ts
+#EXTINF:0,free SPORTSNET WORLD HD
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/776.ts
+#EXTINF:0,free TELETOON
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/775.ts
+#EXTINF:0,free THE MOVIE NETWORK
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/774.ts
+#EXTINF:0,free TRAVEL CHANNEL
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/773.ts
+#EXTINF:0,free TREE HOUSE
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/772.ts
+#EXTINF:0,free VRAK TV
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/771.ts
+#EXTINF:0,free W NETWORK
+#EXTINF:0,CA – YTV
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/484.ts
+#EXTINF:0,CA – CHCH
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/519.ts
+#EXTINF:0,CA – CITY VANCOUVER
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/518.ts
+#EXTINF:0,CA – COMEDY
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/517.ts
+#EXTINF:0,CA – COTTAGE LIFE
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/516.ts
+#EXTINF:0,CA – CP24
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/515.ts
+#EXTINF:0,CA – CTV TORONTO
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/514.ts
+#EXTINF:0,CA – DEJA VIEW
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/513.ts
+#EXTINF:0,CA – E!
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/512.ts
+#EXTINF:0,CA EVASION
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/511.ts
+#EXTINF:0,CA FYI
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/510.ts
+#EXTINF:0,CA G4
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/509.ts
+#EXTINF:0,CA GLOBAL TV CALGARY
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/508.ts
+#EXTINF:0,CA TRAVEL CHANNEL
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/489.ts
+#EXTINF:0,CA TREE HOUSE
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/488.ts
+#EXTINF:0,CA VRAK TV
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/487.ts
+#EXTINF:0,CA W NETWORK
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/486.ts
+#EXTINF:0,CA WORLD FISHING
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/485.ts
+#EXTINF:-1,****** USA CHANNELS ******
+#EXTINF:-1,. A&E HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/25583.ts
+#EXTINF:-1,. ABC HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/7383.ts
+#EXTINF:-1,. Animal Planet HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8905.ts
+#EXTINF:-1,. BEIN HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/6143.ts
+#EXTINF:-1,. Big Ten Network HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/1746.ts
+#EXTINF:-1,. Boomerang HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8907.ts
+#EXTINF:-1,. Bravo HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8908.ts
+#EXTINF:-1,. Cartoon Network USA HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/482.ts
+#EXTINF:-1,. CBS HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/484.ts
+#EXTINF:-1,. CBS Sports Network HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8210.ts
+#EXTINF:-1,. Cinemax HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/6139.ts
+#EXTINF:-1,. Cinemax Moremax HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/524.ts
+#EXTINF:-1,. Cinemax Thrillermax HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8208.ts
+#EXTINF:-1,. CMT HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8909.ts
+#EXTINF:-1,. CNN HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8910.ts
+#EXTINF:-1,. Comedy Central HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/1683.ts
+#EXTINF:-1,. Cooking Channel HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/9542.ts
+#EXTINF:-1,. Crime & Investigation HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8378.ts
+#EXTINF:-1,. CW HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8018.ts
+#EXTINF:-1,. Discovery HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/24675.ts
+#EXTINF:-1,. Discovery Family HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/1745.ts
+#EXTINF:-1,. Discovery Science HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8209.ts
+#EXTINF:-1,. Disney HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/6140.ts
+#EXTINF:-1,. Disney Jr. HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8191.ts
+#EXTINF:-1,. Disney XD HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/25587.ts
+#EXTINF:-1,. DIY HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/6226.ts
+#EXTINF:-1,. E! HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8915.ts
+#EXTINF:-1,. El Rey Network HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/6557.ts
+#EXTINF:-1,. EPIX HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8347.ts
+#EXTINF:-1,. EPIX2 HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8628.ts
+#EXTINF:-1,. ESPN
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/35502.ts
+#EXTINF:-1,. ESPN HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/1645.ts
+#EXTINF:-1,. ESPN2 HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/5426.ts
+#EXTINF:-1,. ESPNDeportes HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/30563.ts
+#EXTINF:-1,. Food Network HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8916.ts
+#EXTINF:-1,. Fox News HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8917.ts
+#EXTINF:-1,. FOX Business Network HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8203.ts
+#EXTINF:-1,. FOX HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/9137.ts
+#EXTINF:-1,. Fox Sports 1 HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/879.ts
+#EXTINF:-1,. Fox Sports 2 HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8918.ts
+#EXTINF:-1,. FreeForm HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/1744.ts
+#EXTINF:-1,. FX HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/937.ts
+#EXTINF:-1,. FXX HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8156.ts
+#EXTINF:-1,. GSN HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/7607.ts
+#EXTINF:-1,. Hallmark HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/906.ts
+#EXTINF:-1,. Hallmark Movies&Mysteries HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8920.ts
+#EXTINF:-1,. HBO HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/25586.ts
+#EXTINF:-1,. HBO2 HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8629.ts
+#EXTINF:-1,. HBOComedy HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/9138.ts
+#EXTINF:-1,. HBOFamily HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8507.ts
+#EXTINF:-1,. HBOSignature HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8664.ts
+#EXTINF:-1,. HBOZone HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8665.ts
+#EXTINF:-1,. HGTV HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8943.ts
+#EXTINF:-1,. History HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/6141.ts
+#EXTINF:-1,. ID HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8921.ts
+#EXTINF:-1,. IFC HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8922.ts
+#EXTINF:-1,. Lifetime HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8923.ts
+#EXTINF:-1,. LMN HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8924.ts
+#EXTINF:-1,. MSNBC HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8421.ts
+#EXTINF:-1,. MTV HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8926.ts
+#EXTINF:-1,. MTVLive HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8505.ts
+#EXTINF:-1,. NatGeo HD USA
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8927.ts
+#EXTINF:-1,. Nat Geo Wild HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8928.ts
+#EXTINF:-1,. NBC EXTRA TIME 2: Watford vs Man City (3:00 PM)
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/35505.ts
+#EXTINF:-1,. NBC EXTRA TIME 3: Man United vs Crystal Palace (3PM)
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/35506.ts
+#EXTINF:-1,. NBC EXTRA TIME 4: Hull City vs Tottenham (3PM)
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/35633.ts
+#EXTINF:-1,. Nick HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/938.ts
+#EXTINF:-1,. Nick Jr. HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8288.ts
+#EXTINF:-1,. Nicktoons HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8420.ts
+#EXTINF:-1,. NHL Network HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/6142.ts
+#EXTINF:-1,. NBC HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8020.ts
+#EXTINF:-1,. NBCSN HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/1785.ts
+#EXTINF:-1,. OWN HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/531.ts
+#EXTINF:-1,. SEC Network HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8157.ts
+#EXTINF:-1,. Showtime HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/25581.ts
+#EXTINF:-1,. Showtime2 HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/35500.ts
+#EXTINF:-1,. ShowtimeFamily Zone HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8666.ts
+#EXTINF:-1,. Spike HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/24678.ts
+#EXTINF:-1,. Sportsman HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/35507.ts
+#EXTINF:-1,. Sprout HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/7606.ts
+#EXTINF:-1,. Sundance HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8630.ts
+#EXTINF:-1,. SyFy HD USA
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8930.ts
+#EXTINF:-1,. TBS HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/849.ts
+#EXTINF:-1,. Tennis HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8192.ts
+#EXTINF:-1,. TNT HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8932.ts
+#EXTINF:-1,. Travel Channel HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8935.ts
+#EXTINF:-1,. TruTV HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/1646.ts
+#EXTINF:-1,. TVLand HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/7356.ts
+#EXTINF:-1,. Universal HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8190.ts
+#EXTINF:-1,. Velocity HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8188.ts
+#EXTINF:-1,. VH1 HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8944.ts
+#EXTINF:-1,. WE HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8939.ts
+#EXTINF:-1,. WWE
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/33286.ts
+#EXTINF:-1,. WWE HD
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/26301.ts
+#EXTINF:-1,****** MLB Extra Innings ******
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/35188.ts
+#EXTINF:-1,MLB01: Indians @ Rockies 3:10 PM ET
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/35189.ts
+#EXTINF:-1,MLB02: Nationals @ Dodgers 3:10 PM ET
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/35190.ts
+#EXTINF:-1,MLB03: Blue Jays @ Athletics 3:35 PM ET
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/35191.ts
+#EXTINF:-1,MLB04: Red Sox @ Yankees 7:05 PM ET
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/35192.ts
+#EXTINF:-1,MLB05: Pirates @ Orioles 7:05 PM ET
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/35193.ts
+#EXTINF:-1,MLB06: White Sox @ Rays 7:10 PM ET
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/35194.ts
+#EXTINF:-1,MLB07: Angels @ Tigers 7:10 PM ET
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/35195.ts
+#EXTINF:-1,MLB08: Cardinals @ Reds 7:10 PM ET
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/35196.ts
+#EXTINF:-1,MLB09: Phillies @ Braves 7:35 PM ET
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/35197.ts
+#EXTINF:-1,MLB10: Marlins @ Cubs 8:05 PM ET
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/35198.ts
+#EXTINF:-1,MLB11: Mets @ Rangers 8:05 PM ET
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/35199.ts
+#EXTINF:-1,MLB12: Giants @ Brewers 8:10 PM ET
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/35200.ts
+#EXTINF:-1,MLB13: Astros @ Royals 8:15 PM ET
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/35201.ts
+#EXTINF:-1,MLB14: Padres @ D-backs 9:40 PM ET
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/35202.ts
+#EXTINF:-1,MLB15: Twins @ Mariners 10:10 PM ET
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/35203.ts
+#EXTINF:-1,****** NBA LEAGUE PASS ******
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/35205.ts
+#EXTINF:-1,NBA01: ----------
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/26304.ts
+#EXTINF:-1,NBA02: ----------
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/26305.ts
+#EXTINF:-1,NBA03: ----------
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/26306.ts
+#EXTINF:-1,NBA04: ----------
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/26307.ts
+#EXTINF:-1,NBA05: ----------
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/26308.ts
+#EXTINF:-1,NBA06: ----------
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/26309.ts
+#EXTINF:-1,NBA07: ----------
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/26310.ts
+#EXTINF:-1,NBA08: ----------
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/32482.ts
