@@ -632,3 +632,45 @@ http://topiptv.net:5890/live/bmw/1234/1862.ts
 http://topiptv.net:5890/live/bmw/1234/1863.ts
 #EXTINF:-1,US|Hallmark
 http://topiptv.net:5890/live/bmw/1234/1860.ts
+#EXTINF:-1,USA: TSN 1
+http://globiptv.com:8000/live/45/1d7g3GXm5H/2703.ts
+#EXTINF:-1,USA: TSN 2
+http://globiptv.com:8000/live/45/1d7g3GXm5H/2704.ts
+#EXTINF:-1,USA: TSN 3
+http://globiptv.com:8000/live/45/1d7g3GXm5H/2705.ts
+#EXTINF:-1,USA: TSN 4
+http://globiptv.com:8000/live/45/1d7g3GXm5H/3132.ts
+#EXTINF:-1,USA: FOX SPORTS 1 HD
+http://globiptv.com:8000/live/45/1d7g3GXm5H/2706.ts
+#EXTINF:-1,USA: FOX SPORTS 2 HD
+http://globiptv.com:8000/live/45/1d7g3GXm5H/2859.ts
+#EXTINF:-1,USA: PAC-12 Arizona
+http://globiptv.com:8000/live/45/1d7g3GXm5H/2729.ts
+#EXTINF:-1,USA: PAC-12 Los Angeles
+http://globiptv.com:8000/live/45/1d7g3GXm5H/2728.ts
+#EXTINF:-1,USA: PAC-12 Oregon
+http://globiptv.com:8000/live/45/1d7g3GXm5H/3131.ts
+#EXTINF:-1,USA: NFL HD
+http://globiptv.com:8000/live/45/1d7g3GXm5H/2730.ts
+#EXTINF:-1,USA: NBA TV
+http://globiptv.com:8000/live/45/1d7g3GXm5H/3129.ts
+#EXTINF:-1,USA: VERSUS HD
+http://globiptv.com:8000/live/45/1d7g3GXm5H/2860.ts
+#EXTINF:-1,USA: WWE_HD
+http://globiptv.com:8000/live/45/1d7g3GXm5H/3128.ts
+#EXTINF:-1,USA: FOX NEWS HD
+http://globiptv.com:8000/live/45/1d7g3GXm5H/2731.ts
+#EXTINF:-1,USA: ESPN HD
+http://globiptv.com:8000/live/45/1d7g3GXm5H/2732.ts
+#EXTINF:-1,USA: ESPN 2
+http://globiptv.com:8000/live/45/1d7g3GXm5H/2735.ts
+#EXTINF:-1,USA: AMC HD
+http://globiptv.com:8000/live/45/1d7g3GXm5H/2733.ts
+#EXTINF:-1,USA: HBO HD
+http://globiptv.com:8000/live/45/1d7g3GXm5H/3130.ts
+#EXTINF:-1,USA: CBSN HD
+http://globiptv.com:8000/live/45/1d7g3GXm5H/3169.ts
+#EXTINF:-1,USA: GOLF HD
+http://globiptv.com:8000/live/45/1d7g3GXm5H/3168.ts
+#EXTINF:-1,USA: TBS HD
+http://globiptv.com:8000/live/45/1d7g3GXm5H/3167.ts
