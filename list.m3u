@@ -101,7 +101,7 @@ http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manife
 #EXTINF:-1 tvg-logo="https://desdelapelouse.files.wordpress.com/2012/06/canada.png" group-title="LABEL",~ Canada TV ~
 http://www.lengua.com/anthems/Canada.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Assemblée_nationale_du_Québec.svg/1200px-Assemblée_nationale_du_Québec.svg.png" group-title="CANADA",Assemblee Nationale du Quebec (French)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/AssemblÃ©e_nationale_du_QuÃ©bec.svg/1200px-AssemblÃ©e_nationale_du_QuÃ©bec.svg.png" group-title="CANADA",Assemblee Nationale du Quebec (French)
 http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.douglas.qc.ca/uploads/Image/images_site/1377_logo_canal_savoir_retaille/canevas-canal-savoir.jpg" group-title="CANADA",Canal Savoir (French)
@@ -308,23 +308,23 @@ http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/772.ts
 #EXTINF:0,free VRAK TV
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/771.ts
 #EXTINF:0,free W NETWORK
-#EXTINF:0,CA – YTV
+#EXTINF:0,CA Â– YTV
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/484.ts
-#EXTINF:0,CA – CHCH
+#EXTINF:0,CA Â– CHCH
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/519.ts
-#EXTINF:0,CA – CITY VANCOUVER
+#EXTINF:0,CA Â– CITY VANCOUVER
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/518.ts
-#EXTINF:0,CA – COMEDY
+#EXTINF:0,CA Â– COMEDY
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/517.ts
-#EXTINF:0,CA – COTTAGE LIFE
+#EXTINF:0,CA Â– COTTAGE LIFE
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/516.ts
-#EXTINF:0,CA – CP24
+#EXTINF:0,CA Â– CP24
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/515.ts
-#EXTINF:0,CA – CTV TORONTO
+#EXTINF:0,CA Â– CTV TORONTO
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/514.ts
-#EXTINF:0,CA – DEJA VIEW
+#EXTINF:0,CA Â– DEJA VIEW
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/513.ts
-#EXTINF:0,CA – E!
+#EXTINF:0,CA Â– E!
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/512.ts
 #EXTINF:0,CA EVASION
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/511.ts
@@ -583,3 +583,5 @@ http://dexonline.ninja:8000/live/clreaiptv/direct1654/26309.ts
 http://dexonline.ninja:8000/live/clreaiptv/direct1654/26310.ts
 #EXTINF:-1,NBA08: ----------
 http://dexonline.ninja:8000/live/clreaiptv/direct1654/32482.ts
+
+http://topiptv.net:5890/get.php?username=bmw&password=1234&type=m3u
