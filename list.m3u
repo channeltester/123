@@ -596,3 +596,573 @@ http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/628.ts
 http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/H00wiqw.jpg" group-title="USA",Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+
+#EXTINF:-1,------|ADDITIONAL|------
+
+#EXTINF:0,A&E
+http://93.174.95.125:1935/edge/_definst_/tuc280rbycwnsvs/playlist.m3u8?wowzasessionid=1419880467
+
+#EXTINF:0,ABC 22 HD
+http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374
+
+#EXTINF:0,ABC Family
+http://93.174.95.125:1935/edge/_definst_/vx63a0c7mxk2jt8/playlist.m3u8?wowzasessionid=1419880244
+
+#EXTINF:0,AMC
+http://93.174.95.125:1935/edge/_definst_/z4cxm7zlfyqs65m/playlist.m3u8?wowzasessionid=1419872183
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png" group-title="USA",Animal Planet
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+
+#EXTINF:0,beIN Sport (Spanish)
+http://93.174.95.125:1935/edge/_definst_/31j6bqlq8e3wwc5/playlist.m3u8?wowzasessionid=1420168629
+
+#EXTINF:0,beIN Sport (USA)
+http://93.174.95.125:1935/edge/_definst_/dhpj1xgov72x4br/manifest.m3u8?wowzasessionid=1426958694
+
+#EXTINF:0,BET
+http://93.174.95.125:1935/edge/_definst_/kexkxje3nqi6dtl/playlist.m3u8?wowzasessionid=1419880467
+
+#EXTINF:0,Bravo
+http://93.174.95.125:1935/edge/_definst_/uw433ikqnrj501l/playlist.m3u8?wowzasessionid=1419872183
+
+#EXTINF:0,Cartoon Network
+http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8
+
+#EXTINF:0,CBS HD (WHIO 7)
+http://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku/chunklist.m3u8?wowzasessionid=1419872048
+
+#EXTINF:0,CNN USA HD
+http://93.174.95.125:1935/edge/_definst_/rjxo8hz17q9waiq/playlist.m3u8?wowzasessionid=1758235421
+
+#EXTINF:0,CNN USA SD
+http://93.174.95.125:1935/edge/_definst_/1z3ps9vxnknuskb/playlist.m3u8?wowzasessionid=1419872183
+
+#EXTINF:0,Crime & Investigation
+http://pdd2.loginto.me:443/cdn78/tot_ci_360p/playlist.m3u8
+
+#EXTINF:0,CW 44 HD
+http://93.174.95.125:1935/edge/_definst_/fvksu1sp51ijtyd/playlist.m3u8?wowzasessionid=1419879994
+
+#EXTINF:0,CW 44 SD
+http://93.174.95.125:1935/edge/_definst_/qvvkvojlano9hnj/playlist.m3u8?wowzasessionid=1419903868
+#EXTINF:0,Destination America 
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/621.ts
+
+#EXTINF:0,Discovery Channel HD
+http://93.174.95.125:1935/edge/_definst_/ishyd3sopok3p27/playlist.m3u8?wowzasessionid=1419872569
+
+#EXTINF:0,Disney Channel
+http://93.174.95.125:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1420170412
+
+#EXTINF:0,ESPN HD
+http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
+
+#EXTINF:0,ESPN SD
+http://93.174.95.125:1935/edge/_definst_/erooxo5dcvk05zk/chunklist.m3u8?wowzasessionid=1426891013
+
+#EXTINF:0,ESPN 2 HD
+http://93.174.95.125:1935/edge/_definst_/rgyus7ao2ullmbt/playlist.m3u8?wowzasessionid=1419906325
+
+#EXTINF:0,ESPN 2 SD
+http://93.174.95.125:1935/edge/_definst_/5hd19kwxef5b59o/playlist.m3u8?wowzasessionid=1420123722
+
+#EXTINF:0,Food Network
+http://93.174.95.125:1935/edge/_definst_/qc6xkzf4h48bz2e/playlist.m3u8?wowzasessionid=1419873022
+
+#EXTINF:0,FOX 45 HD
+http://93.174.95.125:1935/edge/_definst_/yuu6p5oaa1x4a1p/playlist.m3u8?wowzasessionid=1419906680
+
+#EXTINF:0,FOX 45 SD
+http://93.174.95.125:1935/edge/_definst_/q49uyvij145wcky/playlist.m3u8?wowzasessionid=1419873438
+
+#EXTINF:0,FOX News HD
+http://93.174.95.125:1935/edge/_definst_/ohn58e97er36vjr/playlist.m3u8?wowzasessionid=1420123821
+
+#EXTINF:0,FOX News SD
+http://93.174.95.125:1935/edge/_definst_/w0mr10getvsikam/playlist.m3u8?wowzasessionid=1419873587
+
+#EXTINF:0,Golf Channel HD
+http://93.174.95.125:1935/edge/_definst_/ts6w24dx29tcwi4/playlist.m3u8?wowzasessionid=1420169504
+
+#EXTINF:0, GOLF CHANNEL HD
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/790.ts
+
+#EXTINF:0,Hallmark HD
+http://93.174.95.125:1935/edge/_definst_/v4ynnryunsoxzbq/playlist.m3u8?wowzasessionid=1419874236
+
+#EXTINF:0,HBO HD
+http://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571
+
+#EXTINF:0,HBO SD
+http://93.174.95.125:1935/edge/_definst_/qzbbu26gcvjxksz/playlist.m3u8?wowzasessionid=1419907309
+
+#EXTINF:0,HGTV
+http://93.174.95.125:1935/edge/_definst_/gj65q2rg18tpmut/playlist.m3u8?wowzasessionid=1419811602
+
+#EXTINF:0,History Channel (Europe)
+http://93.174.95.125:1935/edge/_definst_/logojbjhar79pc8/manifest.m3u8?wowzasessionid=1426231700
+
+#EXTINF:0,History Channel (USA)
+http://93.174.95.125:1935/edge/_definst_/dhp0rpd116qyyj6/playlist.m3u8?wowzasessionid=1419874554
+
+#EXTINF:0,I.D.
+http://93.174.95.125:1935/edge/_definst_/yjma618cibkqxeo/chunklist.m3u8?wowzasessionid=1420168729
+
+#EXTINF:0,Lifetime HD
+http://93.174.95.125:1935/edge/_definst_/7b2gr554gyyth8e/playlist.m3u8?wowzasessionid=1419879018
+#EXTINF:0,life time 
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/663.ts
+
+#EXTINF:0,lifetime movie network 
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/649.ts
+
+#EXTINF:0,MSNBC SD
+http://93.174.95.125:1935/edge/_definst_/1ioc7taql4472xs/playlist.m3u8?wowzasessionid=1419874712
+
+#EXTINF:0,MTV
+http://93.174.95.125:1935/edge/_definst_/d2z1vc4ahrl6x26/playlist.m3u8?wowzasessionid=1420171062
+
+#EXTINF:0,Nat GEO HD
+http://93.174.95.125:1935/edge/_definst_/qzsfigd1y3bgbhs/playlist.m3u8?wowzasessionid=1420249412
+
+#EXTINF:0,Nat GEO SD
+http://93.174.95.125:1935/edge/_definst_/b8bav5ayzso8m8q/playlist.m3u8?wowzasessionid=1420170282
+
+#EXTINF:0,NBC HD
+http://93.174.95.125:1935/edge/_definst_/kjgkefh6la1di6g/playlist.m3u8?wowzasessionid=1419879103
+
+#EXTINF:0,NBC SD
+http://93.174.95.125:1935/edge/_definst_/s5whw37nl7weedp/playlist.m3u8?wowzasessionid=1420124473
+
+#EXTINF:0,NBC Sports Network HD
+http://93.174.95.125:1935/edge/_definst_/0fm1lstybe4a0j4/playlist.m3u8?wowzasessionid=1419879018
+
+#EXTINF:0,NBC Sports Network SD
+http://93.174.95.125:1935/edge/_definst_/2qmiwfydbj6yu89/playlist.m3u8?wowzasessionid=1419879018
+
+#EXTINF:0,Nickelodeon HD
+http://93.174.95.125:1935/edge/_definst_/q2hs5fqm8b039y0/playlist.m3u8?wowzasessionid=1420170368
+
+#EXTINF:0,Nickelodeon SD
+http://93.174.95.125:1935/edge/_definst_/64jaber5pjqj2cr/playlist.m3u8?wowzasessionid=1434627898
+
+#EXTINF:0,OWN
+http://93.174.95.125:1935/edge/_definst_/uehgy5htiasffj3/playlist.m3u8?wowzasessionid=1419878658
+
+#EXTINF:0,Oxygen
+http://93.174.95.125:1935/edge/_definst_/zmt2swezlswh9nz/playlist.m3u8?wowzasessionid=1419872183
+
+#EXTINF:0,Science
+http://93.174.95.125:1935/edge/_definst_/00t250wv1d4ltib/playlist.m3u8?wowzasessionid=1420170626
+
+#EXTINF:0,Showtime HD
+http://93.174.95.125:1935/edge/_definst_/bwbop58ixz281wv/chunklist.m3u8?wowzasessionid=1419875151
+
+#EXTINF:0,Showtime SD
+http://93.174.95.125:1935/edge/_definst_/s53jbkmyldngbks/playlist.m3u8?wowzasessionid=1419873587
+
+#EXTINF:0,Spike
+http://93.174.95.125:1935/edge/_definst_/sax2mq2alpirnww/playlist.m3u8?wowzasessionid=1419878529
+
+#EXTINF:0, SPORTSNET WORLD HD
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/776.ts
+
+#EXTINF:0,SyFy HD
+http://93.174.95.125:1935/edge/_definst_/x7uii7mll2b7lh4/playlist.m3u8?wowzasessionid=1419878403
+
+#EXTINF:0,SyFy SD
+http://93.174.95.125:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=1419878403
+
+#EXTINF:0,tbs
+http://93.174.95.125:1935/edge/_definst_/jh8nj062bqbsxdh/playlist.m3u8?wowzasessionid=1419878319
+
+#EXTINF:0,TLC
+http://93.174.95.125:1935/edge/_definst_/iugceoy4o6ljhck/chunklist.m3u8?wowzasessionid=1419907929
+
+#EXTINF:0,TNT HD
+http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
+
+#EXTINF:0,TNT SD
+http://93.174.95.125:1935/edge/_definst_/6q4jlbqwvxuingo/chunklist.m3u8?wowzasessionid=1419943929
+
+#EXTINF:0,Travel Channel HD
+http://93.174.95.125:1935/edge/_definst_/4aiufk0o430qt0d/playlist.m3u8?wowzasessionid=1419877887
+
+#EXTINF:0,Travel Channel SD
+http://93.174.95.125:1935/edge/_definst_/1fvuok2ny4jtmgq/chunklist.m3u8?wowzasessionid=1419913887
+
+#EXTINF:0,TruTV
+http://93.174.95.125:1935/edge/_definst_/uhnr4161ybioa5w/playlist.m3u8?wowzasessionid=1420124955
+
+#EXTINF:0,TV Land
+http://93.174.95.125:1935/edge/_definst_/7yxirr4046nk5ca/playlist.m3u8?wowzasessionid=1419908401
+
+#EXTINF:0,Univision
+http://93.174.95.125:1935/edge/_definst_/obzq3ltrjoaxglf/manifest.m3u8?wowzasessionid=1419908048
+
+#EXTINF:0,USA Network
+http://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq/playlist.m3u8?wowzasessionid=1420249300
+
+#EXTINF:0,VH-1
+http://93.174.95.125:1935/edge/_definst_/oeiigxxv1gbeqq9/manifest.m3u8?wowzasessionid=1420170560
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.yiptv.com/wp-content/uploads/2015/05/channels-page-_0000_yes.png" group-title="USA",Yes TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
+
+#EXTINF:-1,------|Locals|------
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/CHCH_HD.PNG" group-title="CANADA",CHCH
+http://52.86.189.59:1935/live/news/chunklist_w479079800.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-RptXgX--BQo/UzBZcK2YyGI/AAAAAAAABLU/NTJX82V0w2Q/s320/citytv.png" group-title="CANADA",CityTV Calgary
+http://btflash-lh.akamaihd.net/i/BTCALFLASH_live@120221/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.vancitybuzz.com/wp-content/uploads/2012/06/city_tv_vancouver.jpg" group-title="CANADA",CityTV Vancouver
+http://btflash-lh.akamaihd.net/i/BTVANFLASH_live@120224/master.m3u8
+
+#EXTINF:-1,------|Sports|------
+
+#EXTINF:-1, Sport:CBC SPORT HD
+http://s69362.cdn.ngenix.net/live/_definst_/Stream1/chunklist.m3u8
+#EXTINF:-1, Sport:CBC SPORT SD
+http://s69362.cdn.ngenix.net/live/_definst_/Stream2/chunklist.m3u8
+#EXTINF:-1, Sport:Fox Sports
+http://live.tvplayerlatino.com/usuarios/src1/FoxSports/web/playlist.m3u8?ZmZ4ZmN5AQp5Z18kAQt4ZmD3ZwL4
+#EXTINF:-1, Sport:FOX SPORTS 1 (USA)
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.134:1935/live playpath=fox1 swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=fox1&vw=620&vh=490 Conn=S:OK
+#EXTINF:-1, Sport:Fox Sports 2
+http://iptv.latino-webtv.com/server1.m3u8?ch=527&cl=3
+#EXTINF:-1, Sport:Fox Sports 2
+http://live.tvplayerlatino.com/usuarios/src1/FoxSports2/web/playlist.m3u8?ZmZ4ZmN5AQp5Z18kAQt4ZmD3ZwL4
+#EXTINF:-1, Sport:Fox Sports 3
+http://live.tvplayerlatino.com/usuarios/src2/FoxSports3/web/playlist.m3u8?ZmZ4ZmN5AQp5Z18kAQt4ZmD3ZwL4
+#EXTINF:-1, Sport:NBA USA
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/70.m3u8
+#EXTINF:-1, Sport:NBC GOLF USA
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/67.m3u8
+#EXTINF:-1, Sport:NBC SPORT
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/73.m3u8
+#EXTINF:-1, Sport:NBC Sport Network HD
+http://37.187.164.175:8080/USA/CAN/270.ch
+#EXTINF:-1, Sport:NFL Now
+http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
+#EXTINF:-1, Sport:NHL Network HD
+http://smb.cdnak.neulion.com/fs/nhl/mobile/iphone/video/nhlnetwork/ipad_1840.m3u8
+#EXTINF:-1, Sport:ESPN
+http://iptv.latino-webtv.com/server1.m3u8?ch=558&cl=3
+#EXTINF:-1, Sport:ESPN
+http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX1/rd4QD4Ht3fDQFtaOIGLhM5X3CvfB8E5boLgXhdAjEmqLDOn0s/I92ot/dymMwgtJ46/ZWqXEXBtLrEzoqzc5EqydG8peGpvs=
+#EXTINF:-1, Sport:ESPN (EN) By Anis Sat
+http://globe.midomed.com:8883/live/midomed/dreambox125/185.ts?anis_sat
+#EXTINF:-1, Sport:ESPN HD
+http://iptv.latino-webtv.com/server1.m3u8?ch=516&cl=5
+#EXTINF:-1, English:Tru TV
+http://cdn.live.simplestream.com/coder5/coder.channels.channel2/hls/2/playlist.m3u8
+#EXTINF:-1, English:TSN 1
+http://185.2.83.63:8080/MiddAaOye/teesn1/tracks-v1a1/index.m3u8
+#EXTINF:-1, English:TSN 1 HD
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8
+#EXTINF:-1, English:TSN 2
+http://185.2.83.63:8080/MiddAaOye/teesn2/tracks-v1a1/index.m3u8
+#EXTINF:-1, English:TSN 2 HD
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
+#EXTINF:-1, English:TSN 3
+http://185.2.83.63:8080/MiddAaOye/teesn3/tracks-v1a1/index.m3u8
+#EXTINF:-1, English:TSN 3 HD
+http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8
+#EXTINF:-1, English:TSN 4
+http://185.2.83.63:8080/MiddAaOye/teesn4/tracks-v1a1/index.m3u8
+#EXTINF:-1, English:TSN 4 HD
+http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8
+#EXTINF:-1, English:TSN 5
+http://185.2.83.63:8080/MiddAaOye/teesn5/tracks-v1a1/index.m3u8
+#EXTINF:-1, English:TSN 5 HD
+http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8
+#EXTINF:-1, English:TNT
+http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e721_wcif.sdp/e721_wcif.sdp-mr2548k.m3u8
+
+
+#EXTINF:-1,------|VOD|------
+
+#EXTINF:-1, VOD Movies:BIG BROTHER
+http://ksportiptv.com:1557/live/burim1/isufaj2/1161.m3u8
+#EXTINF:-1, VOD Movies:Chronicle-Wozu Bist Du Farhig(DE)
+http://server18.stream2k.com/dl3/2nYFymY45o70hCyAHh3dl6wGuPQLdM2ULH7qm2adT5XbGwiCP4NQ2DbKv1WN9sG9nhX7d7vMWIWgXO2xtOf-CiCxsTNNEzpJm1Nwb-pwjaw=.flv
+#EXTINF:-1, VOD Movies:Crooked Arrows (2012)
+http://indostream.tv/files/videos/1351882480b2246.flv
+#EXTINF:-1, VOD Movies:Daylight Fades (2010)
+http://indostream.tv/files/videos/1351115880744c9.flv
+#EXTINF:-1, VOD Movies:destination
+http://5.189.153.252:7500/live/rokas/rokas/93.ts
+#EXTINF:-1, VOD Movies:Fetih 1453 (2012) DVDRip
+http://indostream.tv/files/videos/1349981733b8f85.flv
+#EXTINF:-1, VOD Movies:George Lopez: It's Not Me, It's You
+http://f31.nowvideo.eu/dl/7485d8ecd012b75e6174a28e43b70a24/50fb9e0b/ff09f5939908bbb07203d8c21dec7478f7.flv?client=FLASH
+#EXTINF:-1, VOD Movies:Girls Gone Dead UNRATED (2012) DVDRiP
+http://indostream.tv/files/videos/13489139051d348.flv
+#EXTINF:-1, VOD Movies:Gods Gun Jack Palance Lee Van Cleef (Western)
+http://is4.myvideo.de/de/movie1/d6/7705537.flv
+#EXTINF:-1, VOD Movies:Here Comes The Boom
+http://server40.stream2k.com/dl3/9Kv-TOh7EHnXfQ-a6wi4eHhm2Q-R6ffw8IYNnIHn4jUdS5OsQbxJdnQrqpjwufPO9gy6FVcqXLvK9CwcMFIsDNDByezuZqqzFJMK1EASc2A=.flv?start=0
+#EXTINF:-1, VOD Movies:Hostage (2005) BRRip
+http://indostream.tv/files/videos/1351940427cb9eb.flv
+#EXTINF:-1, VOD Movies:Hostage (2005) BRRip
+http://indostream.tv/files/videos/135119464458c0e.flv
+#EXTINF:-1, VOD Movies:Hotel Transylvania
+http://indostream.tv/files/videos/1350084569c23aa.flv
+#EXTINF:-1, VOD Movies:In Your Hands
+http://server44.stream2k.com/dl3/etMqJPU27b5D3lc1ePZG1pZ3HMPpnSq-f8Oeu-UVPHxYfm132kgdvas0HAstoJUpzH8KrO2b_bDzGsL8xN0xDtP3C4UiJWdbyodwFNADDUw=.flv
+#EXTINF:-1, VOD Movies:Indian Movies
+http://jnnetwork.com/71-2
+#EXTINF:-1, VOD Movies:iptv
+https://1llr9u.oloadcdn.net/dl/l/hAYvJzSG7sTaQQaG/ry5ggMp3Rns/Animales+fantásticos+y+dónde+encontrarlos+(2016)+-+Latino+720p.avi.mp4?mime=true
+#EXTINF:-1, VOD Movies:iptv
+http://s1.live-tv-direct.com:8000/get.php?username=DXTJSkkypV&password=Tm4ZjVuRPa&type=m3u_plus&output=ts
+#EXTINF:-1, VOD Movies:It Can Be Done Amigo Bud Spancer, Jack Palance, Lee Van Cleef (Western)
+http://is4.myvideo.de/de/movie15/56/7705850.flv
+#EXTINF:-1, VOD Movies:IT VOD
+http://185.2.83.202:23000/get.php?username=12bella0115super1&password=SnEC9c7V7i&type=m3u
+#EXTINF:-1, VOD Movies:JMere Dost Picture Abhi Baki Hai (2012)
+http://indostream.tv/files/videos/13500650753d6e8.flv
+#EXTINF:-1, VOD Movies:Katy Perry Part of Me 2012
+http://indostream.tv/files/videos/13500698716af4a.flv
+#EXTINF:-1, VOD Movies:Labor Pains
+http://server22.stream2k.com/dl3/M99BLSoTMWblGRqiw57ryAdp-1bJpNSFu3ggRHAUPlBccHjeHxVYhXMzPycJr_C7Me-WwMitr-KYVuvtHTUmFCDyKtxE8yDZUBu3ALHBr00=.flv
+#EXTINF:-1, VOD Movies:Liberal Arts
+http://server40.stream2k.com/dl3/c1GC8ax_5pGIEDsiRCjWO-HX-JVs2TY4NZ3o8PRJhjT6LhKg5Rf0oYmqMDUPtV_gGECsAtXLXiPEpT4nldmub4MlNT7WYOCg90o092YCfp4=.flv
+#EXTINF:-1, VOD Movies:McLintock (Western-John Wayne)
+http://is2.myvideo.de/de/movie16/e8/7686223.flv
+#EXTINF:-1, VOD Movies:Millers's Crossing
+http://server27.stream2k.com/dl3/O9y3PIpT1_o-YLC0UdLbbHwdOF9sEecDKsAKiHBUuBT_BVMDNzuBGVVB33v0UTlr8avMYq9jkWA6fCgIquIXp4hhDKg5SdgNwWXjpIM-gtQ=.flv
+#EXTINF:-1, VOD Movies:mix
+http://vaders.tv/get.php?username=juanclaudio&password=j04151983avadertv&type=m3u_plus&output=ts
+#EXTINF:-1, VOD Movies:More VOD
+http://188.165.12.93:8000/get.php?username=JJ&password=JJ&type=m3u
+#EXTINF:-1, VOD Movies:Mov
+http://ip100.ignorelist.com:44444/get.php?username=RX_TAX_SERV_XRNZRIHMW&password=ADIXWX0PUTUAECDCZ32TG5&type=m3u
+#EXTINF:-1, VOD Movies:Movie
+http://abroadtv.ddns.net:8000/get.php?username=filmstalker&password=1330&type=m3u&output=hls
+#EXTINF:-1, VOD Movies:Movies
+http://uhs-akamai.ustream.tv/ams/ams-uhs03/streams/httpflv/ustreamVideo/18464781/streams/live_1_1406915414_746258314.flv
+#EXTINF:-1, VOD Movies:Movies
+http://media-movies.com:8000/get.php?username=sanchez&password=sanchez&type=m3u
+#EXTINF:-1, VOD Movies:Movies
+http://gtatemvod.com:43100/get.php?username=gaspare&password=gaspare&type=m3u
+#EXTINF:-1, VOD Movies:Movies
+http://2.welcm.tv:8000/get.php?username=red&password=red&type=m3u
+#EXTINF:-1, VOD Movies:Movies
+http://2.welcm.tv:8000/get.php?username=johnny&password=johnny&type=m3u
+#EXTINF:-1, VOD Movies:Movies
+http://gtatemvod.com:43100/get.php?username=albanese&password=albanese&type=m3u
+#EXTINF:-1, VOD Movies:Movies M3U
+http://gtateam.dyndns.tv:13500/get.php?username=Aaaaa&password=Aaaaa&type=m3u
+#EXTINF:-1, VOD Movies:Naruto Shippuden Movie 5 Blood Prison
+http://indostream.tv/files/videos/13519415365af33.flv
+#EXTINF:-1, VOD Movies:Nitro Circus: The Movie (2012)
+http://server27.stream2k.com/dl3/UTcq-4NU5HzcWd4JfhJjCnQB0ouffMEcPfuZQAW27p-Ne_zDbcASC8oZTO7_B4me--5V_Ht1IKtVcJCDBz4JGvXOyiYVBBRXD9d2g8pfdjs=.flv
+#EXTINF:-1, VOD Movies:People Like Us (2012) BRRip
+http://indostream.tv/files/videos/1349291559796af.flv
+#EXTINF:-1, VOD Movies:Pitch Perfect 1
+http://server53.stream2k.com/dl3/rxlYP5BMgL9WywKZTycfZ255V2S4GFpX_1i1Ovuih4cpvD0XtzmxT4ye95Kxvm58hKZvq07Hnr_p-E_PYgV_YL1eXLvg2vSeWQYTOVQQtOE=.flv
+#EXTINF:-1, VOD Movies:Premium Rush (2012) TS
+http://indostream.tv/files/videos/13487727379b004.flv
+#EXTINF:-1, VOD Movies:Reported Missing
+http://server52.stream2k.com/dl3/R6_CcCRw9HvuD_1jJdS96Mn_EGP-EhfC0OpNJRdaGXTiWsrEpR3ESZpiDneXeWMP-A94I7kqtkE_ObskcNnjprqW7sMLEBhu4h_gPC5AxzI=.flv
+#EXTINF:-1, VOD Movies:Residen Evil : Damnation
+http://indostream.tv/files/videos/134989515914510.flv
+#EXTINF:-1, VOD Movies:revonent-host
+http://37.187.169.72/05350111K7DX-1453816090440.ts2
+#EXTINF:-1, VOD Movies:Rock Of Ages (2012) DVDRip
+http://indostream.tv/files/videos/1348684499cb5db.flv
+#EXTINF:-1, VOD Movies:rtmp://149.202.72.222:1936/live/c2
+rtmp://149.202.72.222:1936/live/c2
+#EXTINF:-1, VOD Movies:Saints And Soldiers 2 (2012) DvDrip
+http://indostream.tv/files/videos/1350410843aff5c.flv
+#EXTINF:-1, VOD Movies:Salt (2010)
+http://indostream.tv/files/videos/1334731901572e4.flv
+#EXTINF:-1, VOD Movies:Saturday Night to Sunday Morning (2012)
+http://indostream.tv/files/videos/1350413302877a2.flv
+#EXTINF:-1, VOD Movies:SeeFood (2011)
+http://indostream.tv/files/videos/1350583894a46d9.flv
+#EXTINF:-1, VOD Movies:Shooter (2007)
+http://indostream.tv/files/videos/1351800010a486b.flv
+#EXTINF:-1, VOD Movies:Sister
+http://server37.stream2k.com/dl3/pFUaYNRyfNGRcOep1CIKgz-yJV8yRc84tSrohJgk9tZEMLYmd5e3hWJIpd8G4I1Fp_pFlNDeOjQh4_lL8cvhCEHJMUP1PG7RMWJr4grICOU=.flv
+#EXTINF:-1, VOD Movies:Sleepwalk with Me
+http://server53.stream2k.com/dl3/X7ukwSkHFq9yCdZ5Ht5BWItK6vuWqpBDg0CpPW2D3E477h_G7wzL3BHTH4bYHzn3Hrz_0S_2ZtBEtwiveBOLOIV1ebB981oqC4Ho4ZDCVjU=.flv
+#EXTINF:-1, VOD Movies:So Undercover
+http://server28.stream2k.com/dl3/88f5E-TvBjcL83s2NEw2vDpsP32ZfURLSPqn-YdA7b-4o6eQkCSJFt1ttq2iuRHOGa6mJp3Qz9XjH7RkzgoFVAHXywmRfkm7RWb9lk3p-IE=.flv?start=0
+#EXTINF:-1, VOD Movies:Sonja And The Bull .subtitled
+http://server39.stream2k.com/dl3/3-RVkbHn8i6kF7vVuGH-juiaAaxHJ6pjtVFB7lIPXwgztaknDPxEAdp8tCfHUtX5HR_xjkA8FSsj-yw_OoXLYp-ZbQCkaf2KJcpjBO4gN2Y=.flv?start=0
+#EXTINF:-1, VOD Movies:sop_ban_chao.2012
+http://indostream.tv/files/videos/1350411745373f9.flv
+#EXTINF:-1, VOD Movies:Stolen (2012) DVDRip
+http://indostream.tv/files/videos/13493774330bfdf.flv
+#EXTINF:-1, VOD Movies:Straight A's
+http://server27.stream2k.com/dl3/-MxXiMMNUg4tmbkkeaz5yT96zYINyvWgYIBn-fpuFbzjjdnClP_TOAEuLLkQoT390Y197j0fc1cXIt0E3yr-b-44D9FX7R9yUc5BbbWxlog=.flv?start=0
+#EXTINF:-1, VOD Movies:Suck Seed (2011) DVDRip
+http://indostream.tv/files/videos/13498531442d0c0.flv
+#EXTINF:-1, VOD Movies:Switch (2011)
+http://indostream.tv/files/videos/1334826128754ba.flv
+#EXTINF:-1, VOD Movies:Tabu
+http://server30.stream2k.com/dl3/PjeC3HwnbXepc12V5QUHqbB_uJvLNTcLgtvodzjNq4e4Flu0DgZjIAq4P_hnz5zu6xsb43Mk1FafwPw_abTST7OE6GjVWue1dBYZzeoL8tc=.flv
+#EXTINF:-1, VOD Movies:The Cold Light Of Day (2012)
+http://indostream.tv/files/videos/1350583862d01cb.flv
+#EXTINF:-1, VOD Movies:The Courier (2011)
+http://indostream.tv/files/videos/1335444855ea16f.flv
+#EXTINF:-1, VOD Movies:The Day After Tomorrow
+http://indostream.tv/files/videos/1351053949daace.flv
+#EXTINF:-1, VOD Movies:The Expatriate [2012]
+http://indostream.tv/files/videos/13489195478e3f8.flv
+#EXTINF:-1, VOD Movies:The Expendables 2 DVDRip.English
+http://indostream.tv/files/videos/1349289225a63a3.flv
+#EXTINF:-1, VOD Movies:The Man From Utah (Western-John Wayne)
+http://is2.myvideo.de/de/movie15/9f/7767542.flv
+#EXTINF:-1, VOD Movies:The Millionaire Tour (2012)
+http://indostream.tv/files/videos/13493780570c491.flv
+#EXTINF:-1, VOD Movies:The Rum Diary
+http://f32.nowvideo.eu/dl/534c076461ae6da69b200f4d55f76b89/50fb9cd5/ffc3b5f13464cb2143f7bc2705d9f29650.flv?client=FLASH
+#EXTINF:-1, VOD Movies:The Sapphires
+http://server47.stream2k.com/dl3/GHq-GABKG48lSfbGy8Pzr_4xdQJb1x2z_Yj_iL4AJ_EHwqw5KoEirelnku8GyNahYT5clltqczFqG3Bn6prQYKW5Tcnkiavk_GCx_4UpiOw=.flv
+#EXTINF:-1, VOD Movies:The Thieves
+http://server33.stream2k.com/dl3/WCytn_HAq159SQh9YgMxfoS3hZF61T7KgpPd_5FP2r2kSsljN-qPZ3oVUMqiD9CMMRqjrrqOQSohfH2VtW3o8m4WCyCFCo46dv6hXObw9_M=.flv
+#EXTINF:-1, VOD Movies:The Victors
+http://server35.stream2k.com/dl3/GvERCVx7TyJUfH-LbSEMVPcdolUMcK4rZFvFw0qnkjROuKA5miH864GcwtqtAr4hTGrJ55xhG17-oFDZz-3azIL16I4k1fBwTicYSglrs_Q=.flv?start=0
+#EXTINF:-1, VOD Movies:The Words
+http://server38.stream2k.com/dl3/v39Ii7WZsaIUssyMXnYPPTtQXhb28sHODxpOX9gBahZ0b_zvLw3Vfw5SKdtGL8_jv_LjJyEn9-V076RBJaB2hIBIKrYc06dhX_15t5HGIgs=.flv
+#EXTINF:-1, VOD Movies:They Call Me Trinity Terence Hill
+http://is4.myvideo.de/de/movie15/74/7695830.flv
+#EXTINF:-1, VOD Movies:The_Divergent_Series.2015
+http://copabrazil.info/watch_The_Divergent_Series.html
+#EXTINF:-1, VOD Movies:This Man Can Not Die Guy Madison (Western)
+http://is4.myvideo.de/de/movie6/d9/7719912.flv
+#EXTINF:-1, VOD Movies:This Means War (2012)
+http://indostream.tv/files/videos/1336197339ecb0d.flv
+#EXTINF:-1, VOD Movies:Tortoise In Love (2012)
+http://server26.stream2k.com/dl3/kREyE4QYXHgB2GxoYb5aCA21T0w5iuYjXtr-SgG24-B48grJzjB8vpvIWA8tcYRC0144_W1p9Iz-O67-gTFdbqOZcUk_2JKMNaEMJSZ6Qjo=.flv
+#EXTINF:-1, VOD Movies:Trade of Innocents
+http://server38.stream2k.com/dl3/XfzDXIxLSRwQTTlOb5m7Uu0tJo2dE2vYlM6hGB1YKFKf54fxuAcsr9me50GxTc5k108slBglFqEDerO7PkfEG8cjOlG5DrCK10-x30IiYxU=.flv
+#EXTINF:-1, VOD Movies:Vantage Point (2008)
+http://indostream.tv/files/videos/1334732567beb5e.flv
+#EXTINF:-1, VOD Movies:Vile
+http://server45.stream2k.com/dl3/drmtSKRDcvou6MLtZ-31LmdjvYN2xne44fT9dh1jQms13CAv7YWJlN0aNQzNTaCq0bn-n4ihrV0hGvNJ6dlaNuZN6mSM2Ld3FZfJDYuVNtM=.flv?start=0
+#EXTINF:-1, VOD Movies:VOD
+http://evolutionteam.dyndns.tv:13500/get.php?username=bonello&password=bonello&type=m3u
+#EXTINF:-1, VOD Movies:VOD
+http://188.165.12.93:8000/get.php?username=toya&password=toya&type=m3u
+#EXTINF:-1, VOD Movies:vod
+rtmp://edge mdcgate.com/live/402572
+#EXTINF:-1, VOD Movies:VOD
+http://188.165.12.93:8000/get.php?username=jay&password=jay&type=m3u
+#EXTINF:-1, VOD Movies:VOD
+http://46.105.113.28:43100/get.php?username=geri&password=geri&type=m3u
+#EXTINF:-1, VOD Movies:VOD
+http://163-172-14-11.rev.poneytelecom.eu:12000/get.php?username=36AEg3hEXmGXgry8&password=725fST8spTbSSQRA&type=m3u
+#EXTINF:-1, VOD Movies:vod
+http://62.4.21.70:8000/get.php?username=vod&password=vod&type=m3u
+#EXTINF:-1, VOD Movies:VOD
+http://188.165.237.116:25461/get.php?username=LyQhAFjv4o&password=trilux&type=m3u
+#EXTINF:-1, VOD Movies:VOD
+http://149.202.211.228:24715/get.php?username=alain&password=alain&type=m3u
+#EXTINF:-1, VOD Movies:vod
+http://151.80.22.39:800/get.php?username=dirk&password=dirk&type=m3u
+#EXTINF:-1, VOD Movies:VOD +...
+http://185.107.80.183:8000/get.php?username=demo&password=demo&type=m3u
+#EXTINF:-1, VOD Movies:VOD ITaly
+http://gtatemvod.com:43100/get.php?username=giacobbe&password=giacobbe&type=m3u
+#EXTINF:-1, VOD Movies:vod m3u
+http://163.172.14.11:12000/get.php?username=36AEg3hEXWGXgry8&password=725fST9spTbSSQRA&type=m3u
+#EXTINF:-1, VOD Movies:VOD Movies
+http://ovstv.on-the-web.tv:8080/get.php?username=ovs_T33&password=k8oY4j6bCf&type=m3u
+#EXTINF:-1, VOD Movies:Vod Movies
+http://163.172.14.11:12000/get.php?username=3Hw7t8BBaF3HaK3b&password=Va8jDb9myb7mPzt5&type=m3u
+#EXTINF:-1, VOD Movies:Vod Movies
+http://ok1.se:8000/get.php?username=lamar&password=lamar&type=m3u
+#EXTINF:-1, VOD Movies:Vod Movies
+http://evolutionteam.dyndns.tv:13500/get.php?username=viper&password=viper&type=m3u
+#EXTINF:-1, VOD Movies:Vod Movies
+http://163.172.14.11:12000/get.php?username=sMPb2hEDEKD5to7F&password=qqcw2druLRmgPpV4&type=m3u
+#EXTINF:-1, VOD Movies:VOD Movies M3U
+http://luckyvod.ddns.net:24000/get.php?username=massimiliano&password=massimiliano&type=m3u
+#EXTINF:-1, VOD Movies:War Horse
+http://f42.nowvideo.eu/dl/f436dc3d71d44e79dca1104039cd26a6/50fbc0eb/ff27c91a0ddc965431aee70dcb65b08ea5.flv?client=FLASH
+#EXTINF:-1, VOD Movies:War Of The Wildcast (Western-John Wayne)
+http://is2.myvideo.de/de/movie14/45/7793726.flv
+#EXTINF:-1, VOD Movies:water spirit carming
+http://indostream.tv/files/videos/1348529409ef973.flv
+#EXTINF:-1, VOD Movies:we are legion the story of the hacktivists
+http://indostream.tv/files/videos/1350256910eb20a.flv
+#EXTINF:-1, VOD Movies:What To Expect When Youre Expecting (2012)
+http://indostream.tv/files/videos/135154302518189.flv
+#EXTINF:-1, VOD Music:DJ LONCHO TV (Rock,electronica,hip hop videoclips)
+http://tv.portalfoxmix.club:1935/8578/8578/playlist.m3u8
+#EXTINF:-1, VOD Music:geuNDl5BsT
+rtmp://origin.tikilive.com/show_tikilive/36183
+#EXTINF:-1, VOD Music:geuNDl5BsT
+rtmp://origin.tikilive.com/show_tikilive/36183
+#EXTINF:-1, VOD Music:MTV DANCE
+http://212.164.175.47:1234/udp/225.54.23.120:5000
+#EXTINF:-1, VOD Music:NBP MUSIC
+rtmp://edge2.tikilive.com:1935/rtmp_tikilive/36220/mainstream
+#EXTINF:-1, VOD Music:Raadio
+http://metsmaa.ee/raadio/raadio.m3u
+#EXTINF:-1, VOD Other:az not
+http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/master.m3u8
+#EXTINF:-1, VOD Other:Big Buck Bunny
+rtsp://184.72.239.149/vod/mp4:BigBuckBunny_175k.mov
+#EXTINF:-1, VOD Other:Channel 9
+http://edge2.digijadoo.net/hls/channel_9_hi/index.m3u8
+#EXTINF:-1, VOD Other:Festival del Circo Montecarlo
+http://b2ushds2-vh.rai.it/i/podcastcdn/raitre/Festival_del_Circo_Montecarlo/Festival_del_Circo_Montecarlo_puntate/6343630_,800,1800,.mp4.csmil/index_1_av.m3u8
+#EXTINF:-1, VOD Other:HUS
+http://5.135.139.145:80/live/upc141/h6t5/59.m3u8?ARTHUR_MIGUEL
+#EXTINF:-1, VOD Other:IT VOD
+http://zetaserver.ns0.it:14500/get.php?username=balbo&password=balbo&type=m3u
+#EXTINF:-1, VOD Other:Italy VOD
+http://gtateam.dyndns.tv:43100/get.php?username=gerardo&password=gerardo&type=m3u
+#EXTINF:-1, VOD Other:KOMPAS TV
+http://www.dailymotion.com/cdn/live/video/x54ozbu.m3u8?auth=1493133335-2688-6kit6hkp-2f3bd3d9514082dae6cf2083732ee701
+#EXTINF:-1, VOD Other:Norppalive
+http://ams3-automatic-wtvzn.pukkistream.net:1935/abr/norppalive/playlist.m3u8
+#EXTINF:-1, VOD Other:osn
+http://88.150.198.74/Lahlou856/Lahlou856/210.ch
+#EXTINF:-1, VOD Other:P B TV
+http://vai.la/nds6
+#EXTINF:-1, VOD Other:Star Vijay HD
+http://50.7.1.178/india_ws34ecc42/vijayINsource/chunks.m3u8
+#EXTINF:-1, VOD Shows:007__cinnemma
+http://origin11.stream.highwebmedia.com:1935/live-origin/007__cinnemma-sd-663df6d2f085e95653476530c49fc1b7d32d13312dad418d025212204fcb2c1c_aac/playlist.m3u8
+#EXTINF:-1, VOD Shows:ALL IN THE FAMILY
+http://198.27.74.25:1935/app/aitf/playlist.m3u8
+#EXTINF:-1, VOD Shows:ALWAYS SUNNY IN PHIPADELPHIA
+http://198.27.74.25:1935/app/sunny/playlist.m3u8
+#EXTINF:-1, VOD Shows:AMERICAN DAD
+http://198.27.74.25:1935/app/americandad/playlist.m3u
+#EXTINF:-1, VOD Shows:Chavo 8
+rtmp://192.240.125.26:443/live?AHx0SNCnIJsbJmmSXOMD5bTBsfDRoMZZlive_mega_chavo http://vaughnlive.tv/4365714339/swf/VaughnSoftPlayer.swf http://vaughnlive.tv/mega_chavo
+#EXTINF:-1, VOD Shows:Married with Children
+http://vaughnlive.tv/lmshows_mwc
+#EXTINF:-1, VOD Shows:Rocko's Modern Life
+http://37.48.118.32/live/Rocko'sModernLife/playlist.m3u8
+#EXTINF:-1, VOD Shows:STAR TREK ENTERPRISE
+rtmp://$OPT:rtmp-raw=rtmp://198.27.74.25/app playpath=trekent01 swfUrl=http://www.tgun.tv/jwplayer/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?trekent01
+#EXTINF:-1, VOD Shows:STAR TREK TNG
+rtmp://$OPT:rtmp-raw=rtmp://198.27.74.25/app playpath=tng01 swfUrl=http://www.tgun.tv/jwplayer/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?tng01
+#EXTINF:-1, VOD Shows:The Walking Dead S03E01
+http://indostream.tv/files/videos/1350585430ecd7e.flv
+#EXTINF:-1, VOD Shows:The Walking Dead S03E02
+http://indostream.tv/files/videos/13509339816b0e5.flv
+#EXTINF:-1, VOD Shows:The Walking Dead S03E03
+http://indostream.tv/files/videos/135179970360fb9.flv
+#EXTINF:-1, VOD Shows:THIRD ROCK FROM THE SUN
+rtmp://$OPT:rtmp-raw=rtmp://198.27.74.25/app playpath=rock01 swfUrl=http://www.tgun.tv/jwplayer/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?rock01
+#EXTINF:-1, VOD Shows:VOD
+http://151.80.20.111:8000/get.php?username=annie&password=annie&type=m3u
+#EXTINF:-1, VOD Shows:VOD
+http://151.80.20.111:8000/get.php?username=eddie&password=eddie&type=m3u
+#EXTINF:-1, VOD Shows:vod,...
+http://158.69.52.43:8000/get.php?username=14022015&password=10122017&type=m3u
+#EXTINF:-1, VOD Shows:WORDS OF PEACE - IN THE BOX
+http://archive.org/download/scm-70098-inthebox/words-of-peace-in-the-box.pegssc.mpeg
+
+ 
