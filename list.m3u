@@ -28,7 +28,7 @@ http://mbox-addon.com/streams/57973-navix.m3u8
 #EXTINF:-1 tvg-logo="tnt.png" tvg-name="TNT" group-title="U.S.A", TNT HD2
 http://mbox-addon.com/streams/57973-navix.m3u8
 #EXTINF:-1 tvg-logo="tnt.png" tvg-name="TNT" group-title="U.S.A", TNT HD3
-http://mbox-addon.com/streams/57973-navix.m3u8
+http://magportal.ddns.net:25461/live/15pUsZKUIw/4boblpukUd/116.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="", SPORTSNET WORLD HD
